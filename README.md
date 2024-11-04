@@ -1,0 +1,2 @@
+# Approximating_instruments_with_Fourier_Series
+Aproximação de instrumentos usando séries de Fourier
